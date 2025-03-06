@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+
+
+@theme{
+    --breakpoint-sm: 640px;
+    --breakpoint-md: 768px;
+    --breakpoin-lg: 1024px;
+    --breakpoint-xl: 1280px;
+
+    --font-sans: 'DM Sans', sans-serif;
+
+    --color-mono-blue: #0055BA;
+    --color-mono-light-grey: #606060
+
+    --
+}
