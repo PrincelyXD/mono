@@ -12,7 +12,7 @@ import MobileNavMenu from "../components/MobileNavMenu";
 
 const Nav = () => {
   return (
-    <div className="relative flex h-20 w-[90%] max-w-[1150px] items-center justify-between lg:h-26 xl:w-[80%]">
+    <div className="relative z-[60] flex h-20 w-[90%] max-w-[1150px] items-center justify-between lg:h-26 xl:w-[80%]">
       <DarkLogo />
 
       <div className="hidden h-fit w-full max-w-[470px] justify-between text-[15px] text-black lg:flex">

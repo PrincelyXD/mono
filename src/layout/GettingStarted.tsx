@@ -44,7 +44,7 @@ const GettingStarted = () => {
               Plug-and-play SDKs
             </h2>
             <Link
-              to="/docs"
+              to="/"
               className="text-mono-blue flex items-center text-sm font-bold transition-transform duration-300 hover:scale-[1.05] sm:text-base"
             >
               Explore our SDKs <ArrowIcon />
@@ -57,7 +57,7 @@ const GettingStarted = () => {
               Beautiful seamless UX
             </h2>
             <Link
-              to="/docs"
+              to="/"
               className="text-mono-blue flex items-center text-sm font-bold transition-transform duration-300 hover:scale-[1.05] sm:text-base"
             >
               See a demo
@@ -71,7 +71,7 @@ const GettingStarted = () => {
               Always-on support
             </h2>
             <Link
-              to="/docs"
+              to="/"
               className="text-mono-blue flex items-center text-sm font-bold transition-transform duration-300 hover:scale-[1.05] sm:text-base"
             >
               {" "}
