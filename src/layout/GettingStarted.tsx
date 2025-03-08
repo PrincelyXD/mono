@@ -30,7 +30,7 @@ const GettingStarted = () => {
 
             <div className="flex items-end">
               <img
-                className="h-fit w-full max-w-[560px]"
+                className=" h-[200px] sm:h-fit w-full max-w-[560px]"
                 src="/api-response-frame.png"
                 alt="api-response-frame"
               />
