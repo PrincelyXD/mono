@@ -4,6 +4,7 @@ import GettingStarted from "./GettingStarted"
 import Footer from "./Footer"
 
 
+
 const Layout = () => {
   return (
     <div className="w-full flex flex-col items-center ">

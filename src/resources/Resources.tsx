@@ -106,3 +106,10 @@ export const NavLink4Resources = [
     href: "/",
   },
 ];
+
+export const TestimonialCardResources = [
+  {name: "Barima Effah-Adjei", position: "Co-founder, Float", image: "/float-person.png", companyLogo: "/float-logo.png", review: "It's important to go with a data provider that inspires confidence in users to give consent to share their data; this is one of our favourite things about Mono."},
+  {name: "Emmanuel Ogunsola", position: "Product Manager, Aella", image: "/aella-person.png", companyLogo: "/aella-logo.png", review: "The onboarding and integration process with Mono was smooth. Our Engineering and Product teams use the dashboard to oversee our statement collection process."},
+  {name: "Daniel Osineye", position: "Co-Founder/ CTO, Evolve Credit", image: "/evolve-person.png", companyLogo: "/evolve-logo.png", review: "We can trust Mono over 90% of the time which is better than our previous provider. This ease & reliability are our favourite things about Mono."},
+  {name: "Peter Olusesan", position: "CEO, Inflow Finance", image: "/inflow-person.png", companyLogo: "/inflow-logo.png", review: "Migrating to Mono was seamless... The simplicity and stability of the Mono SDKs are top-notch."},
+]

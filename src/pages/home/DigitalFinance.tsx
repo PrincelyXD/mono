@@ -48,9 +48,9 @@ const DigitalFinance = () => {
 
       <div className="w-[90%] max-w-[10150px] xl:w-[80%]">
         <div className="w-full py-10 lg:max-w-[500px]">
-          <h1 className="my-5 pr-5 text-3xl leading-[1.1] font-semibold sm:mt-12 sm:text-5xl md:pr-0 md:leading-[1.3] lg:text-[56px]">
+          <h2 className="my-5 pr-5 text-3xl leading-[1.1] font-semibold sm:mt-12 sm:text-5xl md:pr-0 md:leading-[1.3] lg:text-[56px]">
             Build for the future of digital finance.
-          </h1>
+          </h2>
           <p className="mb-9 text-base sm:mb-12 md:max-w-[450px] md:text-xl lg:max-w-[550px] lg:text-2xl">
             Bring tomorrow's solutions to life, with our customer-focused
             solutions, today.
