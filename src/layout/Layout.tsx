@@ -7,7 +7,7 @@ import Footer from "./Footer"
 
 const Layout = () => {
   return (
-    <div className="w-full flex flex-col items-center ">
+    <div className="w-full flex flex-col items-center max-w-[1600px] min-w-[344px] mx-auto ">
   
      <Nav/>
      <Outlet/>

@@ -27,7 +27,7 @@ const HeroSection = () => {
           Mono helps businesses to access high-quality financial data and direct
           bank payments.
         </p>
-        <div className="flex gap-x-3">
+        <div className="flex flex-col md:flex-row gapy gap-3">
           <Link
             to="/"
             className="bg-mono-blue group flex h-fit w-fit items-center rounded-xl px-3 py-3 text-sm text-white transition-all duration-300 sm:px-5 sm:py-4"

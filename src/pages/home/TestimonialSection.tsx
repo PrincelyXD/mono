@@ -39,11 +39,15 @@ const TestimonialSection = () => {
             setIsBeginning(false);
             setIsEnd(false);
           }}
-          slidesPerView={2} 
+          slidesPerView={1} 
   slidesPerGroup={1} 
   spaceBetween={20}
   speed={800}
   breakpoints={{
+    100:{
+      slidesPerView: 1, 
+      slidesPerGroup: 1,
+    },
     480: {
       slidesPerView: 1, 
       slidesPerGroup: 1, 
