@@ -21,7 +21,7 @@ const GettingStarted = () => {
                 Powerful APIs and easy-to-use resources
               </h2>
               <Link
-                to="/docs"
+                to="/"
                 className="text-mono-blue flex items-center text-sm font-bold sm:text-base"
               >
                 Read our API Docs <ArrowIcon />
